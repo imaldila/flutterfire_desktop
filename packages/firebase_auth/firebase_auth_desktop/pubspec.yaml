@@ -21,7 +21,7 @@ dependencies:
 
 dev_dependencies:
   async: ^2.8.1
-  firebase_core_platform_interface: ^4.5.0
+  firebase_core_platform_interface: ^5.0.0 ^4.5.0
   flutter_test:
     sdk: flutter
   mockito: ^5.0.0
