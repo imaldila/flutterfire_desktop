@@ -186,7 +186,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         child: const Text('Save changes'),
                       ),
               ),
-            )
+            ),
           ],
         ),
       ),
